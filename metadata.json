@@ -1,0 +1,5 @@
+{
+  "name": "SceneDescriber AI",
+  "description": "Upload a video and get a detailed scene-by-scene description using Gemini AI.",
+  "requestFramePermissions": []
+}
